@@ -1,70 +1,60 @@
-# Getting Started with Create React App
+Jharkhand Yatra - Smart Digital Tourism Platform 🌳⛰️
+Problem Statement ID: 25032
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Theme: Travel & Tourism
 
-## Available Scripts
+Organization: Government of Jharkhand
 
-In the project directory, you can run:
+Hackathon: Smart India Hackathon (SIH) 2025
 
-### `npm start`
+📌 Project Overview
+Jharkhand is a treasure trove of natural beauty and tribal heritage, yet it remains digitally underserved. Jharkhand Yatra is an AI-powered frontend prototype designed to centralize tourism information, provide personalized itineraries, and empower local artisans through a secure digital marketplace.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+✨ Key Features (Prototype)
+AI Itinerary Planner: Dynamically generates trip plans based on user preferences (Nature, Spiritual, Adventure).
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Blockchain Trust Badge: Demonstrates guide and service provider verification for tourist safety.
 
-### `npm test`
+Local Marketplace: A dedicated section for authentic Jharkhandi handicrafts (Dokra, Sohrai, Bamboo).
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Interactive UI: Seamless navigation with interactive popups (modals) for products and guides.
 
-### `npm run build`
+AI Chatbot Interface: A floating assistant for instant visitor support.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+🛠️ Technology Stack
+Frontend: HTML5, CSS3
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Logic: Vanilla JavaScript (ES6+)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Icons: Font Awesome
 
-### `npm run eject`
+Deployment: GitHub Pages / Vercel (Conceptual)
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+🚀 How to Run the Prototype
+Because this project is built with Vanilla JS, you don't need to install any dependencies or run npm install.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Local Setup
+Clone the Repository:
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+Bash
+git clone https://github.com/shivampareek786/Jharkhand_Yatra.git
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+2.  **Navigate to the folder:**
+    ```bash
+    cd Jharkhand_Yatra
+    ```
+3.  **Launch the App:**
+    *   Simply locate the `index.html` file in your file explorer and **double-click** it to open in your browser.
+    *   *Developer Tip:* If using VS Code, use the **Live Server** extension for the best experience.
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## 🗺️ Demo Flow (The "Happy Path")
+To see the prototype's full functionality during the evaluation:
+1.  **Generate a Plan:** In the Hero section, select **"Nature & Wildlife"** and enter **"3"** days. Click "Plan My Trip."
+2.  **Explore Marketplace:** Scroll to the marketplace and click on any product card (e.g., Dokra Bull) to see the detailed popup.
+3.  **Verify Guides:** Click on a guide's profile to see their blockchain verification status.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## 👥 Team Members
 
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+| Shivam Pareek | Team Lead & Logic Developer |
+| Shaan Ali     | Team Lead & Frontend Developer |
